@@ -11,3 +11,12 @@ Import the pandas library as pd.
 Import the Numpy library as np.
 Print the following the statement: Hello Capstone Project Course!
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
+
+
+Week 03
+
+This week's assigment is about clustering Totonto Neighbohoods.
+The maps generated using the Folium library are shown below:
+
+![](images/map.png)
+![](images/cluster_map.png)
