@@ -26,7 +26,7 @@ Week 04
 
 This week's assignment is available at the final_project folder.
 The submission is related to the files:
-introduction-business_problem.txt
+introduction-business_problem.txt / 
 data.txt
 
 
@@ -34,6 +34,6 @@ Week 05
 
 This week's assignment is available at the final_project folder.
 The submission is related to the files:
-The_Battle_of_Neighborhoods.ipynb
-brazilian_rest_ny_tocsv1.csv
-brazilian_rest_stats_ny_csv.csv
+The_Battle_of_Neighborhoods.ipynb / 
+brazilian_rest_ny_tocsv1.csv / 
+brazilian_rest_stats_ny_csv.csv /
