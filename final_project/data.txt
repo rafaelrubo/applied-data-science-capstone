@@ -1,0 +1,12 @@
+Data
+
+
+In order to answer the above questions, data on New York City neighborhoods,
+boroughs to include boundaries, latitude, longitude, restaurants,
+and restaurant ratings and tips are required.
+
+New York City data containing the neighborhoods and boroughs, latitudes, and longitudes will
+be obtained from the data source: https://cocl.us/new_york_dataset
+
+All data related to locations and quality of Brazilian restaurants will be obtained via the
+FourSquare API utilized via the Request library in Python.

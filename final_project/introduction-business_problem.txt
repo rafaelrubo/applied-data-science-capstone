@@ -1,0 +1,15 @@
+Introduction
+
+
+The Brazilian immigration wave to the US hit its peak in the 1990s and early 2000s.
+During the 17 years between 1990 and 2007 over 275,000 Brazilians migrated to the United States.
+In total, around 7% of the entire US Brazilian population lives in New York City.
+
+According to the United States Census Bureau, in a survey from 2012, there were 72,635 brazilians living in NYC.
+It is the main metropolitan area of brazilian population, followed by Boston (63,930) and Miami (43,930).
+
+So, where exactly do Brazilians hang out in the city?
+Where can you find feijoada (a stew of beans with beef and pork) and other delicious Brazilian foods?
+
+This project will attempt to answer the questions “Where should an investor open a Brazilian Restaurant in NYC?”
+and “Where should I go If I want great Brazilian food?”
